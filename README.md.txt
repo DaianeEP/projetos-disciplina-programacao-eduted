@@ -6,7 +6,7 @@ Este repositório contém os projetos e atividades desenvolvidos durante a disci
 Neste material, apresento conceitos de forma visual, incluindo vídeos e jogos interativos.
 <div align="center">
   <a href="https://my.visme.co/view/y4vzjq3j-bio-revise">
-    <img src="captura de tela 2026-04-30 214301.png" alt="Capa do Ebook" width="300">
+    <img src="capa.png" alt="Capa do Ebook" width="300">
   </a>
   <p><i>Clique na imagem para acessar o ebook interativo</i></p>
 </div>

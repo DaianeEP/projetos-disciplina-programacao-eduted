@@ -1,16 +1,23 @@
 # Projetos de Programação - Pós-Graduação (EduTed)
 
-Este repositório contém os projetos e atividades desenvolvidos durante a disciplina de Programação na minha pós-graduação. Os algoritmos foram implementados utilizando a linguagem **C** e o ambiente de desenvolvimento **Embarcadero Dev-C++**.
+Este repositório contém os projetos e atividades desenvolvidos durante a disciplina de Programação na minha pós-graduação, os algoritmos foram implementados utilizando a linguagem **C** e o ambiente de desenvolvimento **Embarcadero Dev-C++**, e meu Primeiro Projeto de Intervenção, um Ebook interativo de Revisão sobre Ecologia, para vestibulares e ENEM. 
 
-## 🚀 Tecnologias Utilizadas
-*   Linguagem C
-*   IDE Embarcadero Dev-C++ 6.3
+## 📘 Ebook Interativo (Visme)
+Neste material, apresento conceitos de forma visual, incluindo vídeos e jogos interativos.
+<div align="center">
+  <a href="https://my.visme.co/view/y4vzjq3j-bio-revise">
+    <img src="captura de tela 2026-04-30 214301.png" alt="Capa do Ebook" width="300">
+  </a>
+  <p><i>Clique na imagem para acessar o ebook interativo</i></p>
+</div>
 
-## 📁 Conteúdo do Repositório
-O repositório inclui atividades avaliativas e exercícios de fixação, abordando temas como:
-*   Estruturas de repetição e condicionais.
-*   Manipulação de variáveis e tipos de dados.
-*   Lógica de programação aplicada.
+---
+
+## 💻 Projetos em C
+Aqui estão os códigos que desenvolvi:
+*   **Projeto 1:** Descrição rápida do que o código faz.
+*   **Projeto 2:** Outra descrição.
+
 
 ## 💻 Como executar os projetos
 1.  Tenha um compilador de C instalado (como o GCC) ou a IDE Dev-C++.

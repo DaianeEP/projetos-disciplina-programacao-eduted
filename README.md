@@ -15,8 +15,10 @@ Neste material, apresento conceitos de forma visual, incluindo vídeos e jogos i
 
 ## 💻 Projetos em C
 Aqui estão os códigos que desenvolvi:
-*   **Projeto 1:** Descrição rápida do que o código faz.
-*   **Projeto 2:** Outra descrição.
+*   **Projeto 1:** Exercício da aula 1 de introdução à linguagem C.
+*   **Projeto 2:** Geocalc, calculadora de área e perímetro de figuras geométricas.
+*   **Projeto 3:** Calculadora de verificação se um número é primo ou não e resolução de tabuada.
+*   **Projeto 4:** Jogo em três níveis de complexidade (fácil, médio e difícil) com as quatro operações.
 
 
 ## 💻 Como executar os projetos
